@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zego音视频服务</string>
+    <string name="welcome_user">欢迎您%1$s</string>
+    <string name="current_seat_count">坐席数：%1$s</string>
+</resources>
